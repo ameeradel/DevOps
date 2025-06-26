@@ -1,4 +1,4 @@
-# Day 01 – Linux Essentials & Bash Scripting
+# Linux Essentials & Bash Scripting
 
 ## ✅ Goals
 - Refresh Linux command-line essentials
